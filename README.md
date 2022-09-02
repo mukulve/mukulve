@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukul V</h1>
-<h3 align="center">A developer</h3>
+<h3 align="center">A Developer</h3>
 
 - 🔭 I’m currently working on [Classified Advertising Website](https://bandsell.netlify.app/)
 
